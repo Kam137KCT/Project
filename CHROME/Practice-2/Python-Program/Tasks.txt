@@ -1,0 +1,13 @@
+Creating C_PTR_Calculator
+
+First:
+	Creating a file to store the PTR values.
+	Crearting function to input the PTR values and name.
+	Creating a function to calculate the PTR values using formula.
+	Creating function fo find the set of PTR values of given person by giving the names of set.
+Second:
+	Testing the program.
+	Debugging the code and checking the errors. 
+Problem:
+	How to claculate interest.
+	How to find row of peoples interest and values.
